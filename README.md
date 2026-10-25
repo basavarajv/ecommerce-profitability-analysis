@@ -80,8 +80,7 @@ analysis](screenshots/03_Discount_Root_Cause_Overview.png)
 
 ## Files
 
--   `Ecommerce_Profitability_Project_Report.pdf` --- detailed
-    methodology, findings, recommendations, and limitations.
+- [Read the Detailed Project Report (PDF)](Ecommerce_Profitability_Project_Report.pdf) — Detailed methodology, findings, recommendations, and limitations.
 -   `screenshots/` --- selected Power BI report screenshots.
 
 ## Limitations
