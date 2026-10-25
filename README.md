@@ -67,21 +67,21 @@ relationship cardinality.
 
 ## Dashboard screenshots
 
-![Executive overview](screenshots/01_Executive_Overview.png)
+![Executive overview](Screenshots/01_Executive_Overview.png)
 
-![Discount analysis](screenshots/02_Discount_Analysis.png)
+![Discount analysis](Screenshots/02_Discount_Analysis.png)
 
 ![Discount root-cause
-analysis](screenshots/03_Discount_Root_Cause_Overview.png)
+analysis](Screenshots/03_Discount_Root_Cause_Overview.png)
 
-![Regional profitability](screenshots/04_Regional_Profitability.png)
+![Regional profitability](Screenshots/04_Regional_Profitability.png)
 
-![Yearly performance](screenshots/05_Yearly_Performance.png)
+![Yearly performance](Screenshots/05_Yearly_Performance.png)
 
 ## Files
 
 - [Read the Detailed Project Report (PDF)](Ecommerce_Profitability_Project_Report.pdf) — Detailed methodology, findings, recommendations, and limitations.
--   `screenshots/` --- selected Power BI report screenshots.
+-   `Screenshots/` --- selected Power BI report screenshots.
 
 ## Limitations
 
